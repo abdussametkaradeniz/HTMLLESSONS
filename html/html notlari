@@ -1,0 +1,15 @@
+/* HEAD ETIKETI */
+
+head etiketi icerisine sayfayi tanimlayan etiketler geliyor ornegin title head etiketi yazilir.
+meta etiketi de oraya yazilir ornek bir kullanim gosterecek olursak
+<meta name="title" content="arac kiralama"> anahtar kelimeler her zaman metaya yazilir ceo icin bu gereklidir. Buraya sayfanin basligi yazilir
+<meta name="keywords" content="arac yikama, arac kiralama, ucuza arac kiralama"> burada ise anahtar kelimeler girilir. 
+<meta name="description" content="site aciklamasi buraya yazilir">
+
+/* BODY ETIKETI */
+
+sayfa icerigi bu kisima yazilir. Sayfa uzerinde gorunen her icerik burada tanimlanir
+
+
+
+
